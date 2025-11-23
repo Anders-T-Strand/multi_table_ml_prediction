@@ -1,0 +1,1031 @@
+pd qcut1,pd qcut2,pd qcut3,random choice 2,random choice 4,random choice 7,random label num 4,semi_constant_1,semi_constant_2,contact_phone
+High,Q3,G5,,West,Tuesday,label num lo 4,q_const_0,q_const_0,6793225
+High,Q3,,Rand Choice 2,East,Monday,,q_const_0,q_const_0,6010851
+Low,Q2,,Rand Choice 2,North,Monday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,,South,Monday,label num lo 2,q_const_0,q_const_0,6056737
+Low,,G4,Rand Choice 1,West,Thursday,label num lo 3,q_const_0,q_const_0,2137385
+Low,,G4,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,
+Low,,G4,,East,Monday,,q_const_0,q_const_0,1789143
+High,Q3,G4,Rand Choice 1,West,Sunday,label num lo 2,q_const_0,q_const_0,8408113
+Low,,G3,Rand Choice 2,North,Wednesday,label num lo 4,q_const_0,q_const_0,7934998
+Low,Q1,G2,Rand Choice 1,South,Monday,label num lo 3,q_const_0,q_const_0,6962199
+Low,Q2,G3,,East,Friday,label num lo 4,q_const_0,q_const_0_1,3003423
+High,Q4,G5,Rand Choice 2,South,Wednesday,,q_const_0,q_const_0,8833912
+Low,,G3,,East,Monday,,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,9794232
+Low,Q2,G4,,North,Friday,label num lo 2,q_const_0,q_const_0,8671054
+Low,,G3,Rand Choice 2,West,Wednesday,label num lo 1,q_const_0,q_const_0,5741569
+High,,G4,Rand Choice 1,South,Friday,label num lo 2,q_const_0,q_const_0,
+High,Q3,G5,,South,Saturday,label num lo 2,q_const_0,q_const_0,
+High,Q3,,Rand Choice 2,South,Thursday,label num lo 1,q_const_0,q_const_0,3333768
+Low,Q2,G3,Rand Choice 1,East,Saturday,label num lo 1,q_const_0,q_const_0,6218855
+High,,G5,,South,Friday,label num lo 1,q_const_0,q_const_0,3101163
+High,Q4,G6,Rand Choice 1,East,Friday,label num lo 3,q_const_0,q_const_0,7632600
+High,,G4,Rand Choice 2,South,Monday,,q_const_0,q_const_0,8560786
+Low,,G3,Rand Choice 1,West,Friday,label num lo 3,q_const_0,q_const_0,3927079
+High,Q3,G4,Rand Choice 2,East,Saturday,label num lo 3,q_const_0,q_const_0_2,4845006
+Low,Q2,G4,Rand Choice 1,East,Sunday,label num lo 4,q_const_0,q_const_0,5629079
+High,Q3,G4,,South,Thursday,,q_const_0,q_const_0,6386985
+Low,Q1,G2,,South,Saturday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 1,West,Friday,label num lo 3,q_const_0,q_const_0,2504433
+Low,Q2,,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0,9735097
+High,Q4,G6,,North,,label num lo 1,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,North,Tuesday,label num lo 4,q_const_0,q_const_0,0425705
+High,Q4,G6,Rand Choice 1,West,Wednesday,label num lo 2,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 1,East,Friday,label num lo 1,q_const_0,q_const_0,3991053
+High,Q4,G6,Rand Choice 2,North,Thursday,label num lo 1,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 2,South,Tuesday,label num lo 1,q_const_0,q_const_0,1234538
+High,,G5,Rand Choice 2,West,Sunday,label num lo 3,q_const_0,q_const_0,5979558
+Low,,G3,Rand Choice 2,East,Sunday,label num lo 3,q_const_0,q_const_0,6852038
+Low,,G3,Rand Choice 1,East,Thursday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 1,North,,,q_const_0,q_const_0,
+Low,,G3,,South,Sunday,label num lo 3,q_const_0,q_const_0,0226463
+Low,,G1,,East,,label num lo 2,q_const_0,q_const_0,
+Low,Q2,G4,,North,Wednesday,label num lo 4,q_const_0,q_const_0,3471226
+Low,Q2,G3,Rand Choice 2,South,Sunday,label num lo 2,q_const_0,q_const_0,4876640
+High,Q4,G6,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,4236273
+Low,Q1,G1,,West,Wednesday,label num lo 3,q_const_0,q_const_0,1198119
+Low,Q1,G2,Rand Choice 1,South,Wednesday,,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,West,Thursday,label num lo 1,q_const_0,q_const_0,7850458
+Low,Q1,G2,Rand Choice 2,West,Friday,,q_const_0,q_const_0,4753448
+Low,,G4,,South,Wednesday,label num lo 1,q_const_0,q_const_0,4581461
+High,Q3,,Rand Choice 1,North,Thursday,label num lo 2,q_const_0,q_const_0,8881201
+High,Q4,G5,,West,Tuesday,label num lo 4,q_const_0,q_const_0,9673560
+High,,G6,Rand Choice 1,East,Wednesday,label num lo 2,q_const_0,q_const_0,7730252
+High,,G5,Rand Choice 2,North,Sunday,label num lo 1,q_const_0,q_const_0,1035564
+Low,Q2,G4,Rand Choice 2,North,Sunday,label num lo 1,q_const_0,q_const_0,6392450
+Low,Q2,G4,,North,Monday,label num lo 1,q_const_0,q_const_0,2252034
+High,,G6,Rand Choice 2,West,Tuesday,label num lo 3,q_const_0,q_const_0,6604885
+Low,Q1,G3,Rand Choice 2,South,Wednesday,label num lo 1,q_const_0,q_const_0,7717982
+Low,Q1,G1,Rand Choice 2,South,Tuesday,label num lo 4,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 1,North,Monday,label num lo 3,q_const_0,q_const_0,9527847
+Low,Q2,G4,,East,Sunday,,q_const_0,q_const_0,4370519
+Low,,G1,Rand Choice 1,West,Friday,,q_const_0,q_const_0,0286214
+High,,,Rand Choice 1,North,Monday,,q_const_0,q_const_0,9201630
+High,Q3,G4,Rand Choice 2,West,Saturday,label num lo 2,q_const_0,q_const_0,0923002
+Low,Q1,G2,,West,Wednesday,,q_const_0,q_const_0,6926769
+High,Q3,G4,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,8481758
+Low,Q1,G2,,West,Tuesday,,q_const_0,q_const_0,5671819
+High,Q4,G6,Rand Choice 1,North,Saturday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,,North,,label num lo 3,q_const_0,q_const_0,2344096
+High,Q4,G6,Rand Choice 1,South,Friday,label num lo 3,q_const_0,q_const_0,4372770
+Low,,G1,,East,Thursday,label num lo 3,q_const_0,q_const_0,2944936
+High,Q4,G6,Rand Choice 2,North,Wednesday,label num lo 4,q_const_0,q_const_0,2940445
+Low,Q2,G3,,South,Friday,label num lo 1,q_const_0,q_const_0,9179739
+High,Q3,G4,Rand Choice 2,South,Wednesday,label num lo 3,q_const_0,q_const_0,9915402
+High,,G4,Rand Choice 2,North,Tuesday,label num lo 1,q_const_0,q_const_0,2985972
+High,,G6,,West,Thursday,,q_const_0,q_const_0,1259363
+High,,G6,Rand Choice 1,North,Monday,,q_const_0,q_const_0,4405766
+Low,Q1,G3,,West,Thursday,label num lo 1,q_const_0,q_const_0,7398204
+Low,Q2,G3,,South,Sunday,,q_const_0,q_const_0,2884179
+Low,Q1,G1,Rand Choice 2,North,Tuesday,,q_const_0,q_const_0,2426395
+High,,G5,,West,Wednesday,,q_const_0,q_const_0,9619257
+Low,Q1,,Rand Choice 2,West,Wednesday,,q_const_0,q_const_0,6251430
+Low,Q2,G3,Rand Choice 1,West,Sunday,label num lo 2,q_const_0,q_const_0,2852165
+Low,,G3,,North,Friday,label num lo 2,q_const_0,q_const_0,1529047
+Low,Q1,G1,Rand Choice 2,South,Sunday,label num lo 2,q_const_0,q_const_0,7317484
+Low,Q1,G1,Rand Choice 2,West,Monday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G1,,North,Friday,label num lo 4,q_const_0,q_const_0,3296324
+High,Q3,G4,Rand Choice 1,East,Saturday,,q_const_0,q_const_0,7166984
+Low,Q1,G2,Rand Choice 1,West,Monday,label num lo 4,q_const_0,q_const_0,1898508
+High,Q4,G6,,North,Tuesday,label num lo 2,q_const_0,q_const_0,1358538
+Low,,G3,Rand Choice 1,North,Friday,label num lo 4,q_const_0,q_const_0,
+High,,G5,Rand Choice 2,West,Wednesday,,q_const_0,q_const_0,3768435
+High,,G6,Rand Choice 2,East,Wednesday,,q_const_0,q_const_0,5524651
+High,,G4,Rand Choice 2,North,Friday,label num lo 1,q_const_0,q_const_0,8782153
+High,Q4,G6,Rand Choice 2,North,Wednesday,label num lo 2,q_const_0,q_const_0,5809518
+High,,G6,Rand Choice 2,East,Monday,label num lo 3,q_const_0,q_const_0,9140591
+Low,,,Rand Choice 2,West,Sunday,label num lo 3,q_const_0,q_const_0,0332726
+Low,,G4,Rand Choice 1,West,Thursday,label num lo 2,q_const_0,q_const_0,8060146
+Low,Q2,G3,,West,Saturday,label num lo 4,q_const_0,q_const_0,2197818
+High,,G5,Rand Choice 2,East,Sunday,,q_const_0,q_const_0,4552716
+High,,G5,Rand Choice 1,North,Wednesday,label num lo 1,q_const_0,q_const_0,6198921
+Low,,G3,Rand Choice 1,West,Thursday,label num lo 1,q_const_0,q_const_0,3021357
+Low,Q2,G3,,North,Monday,,q_const_0,q_const_0,
+High,,,Rand Choice 1,West,Saturday,label num lo 1,q_const_0,q_const_0,6521620
+Low,Q1,G2,,East,Friday,label num lo 4,q_const_0,q_const_0,6651106
+Low,Q1,,Rand Choice 1,North,Monday,label num lo 1,q_const_0,q_const_0,0331047
+High,Q3,G4,Rand Choice 1,East,,label num lo 2,q_const_0,q_const_0,7810301
+Low,,G1,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,2381679
+High,,G5,,South,Friday,label num lo 4,q_const_0,q_const_0,6822589
+Low,Q2,G3,Rand Choice 2,West,Tuesday,label num lo 4,q_const_0,q_const_0,9239654
+Low,Q1,G1,Rand Choice 2,North,Monday,label num lo 3,q_const_0,q_const_0,6864891
+High,Q4,G6,Rand Choice 2,South,Monday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,0379421
+Low,Q2,G3,Rand Choice 2,South,,label num lo 2,q_const_0,q_const_0,3420383
+Low,Q1,G2,Rand Choice 2,East,Thursday,label num lo 3,q_const_0,q_const_0,2858494
+Low,Q1,G2,,East,Saturday,label num lo 3,q_const_0,q_const_0,9841347
+High,,G5,Rand Choice 2,South,Tuesday,,q_const_0,q_const_0,3347105
+High,,G5,Rand Choice 2,North,,label num lo 2,q_const_0,q_const_0,
+High,,G6,,West,Saturday,label num lo 1,q_const_0,q_const_0,8409075
+High,,G5,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,5947984
+Low,Q1,G2,Rand Choice 1,West,Monday,label num lo 1,q_const_0,q_const_0,9047480
+Low,Q1,G2,Rand Choice 2,South,Monday,label num lo 4,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 2,West,Monday,label num lo 1,q_const_0,q_const_0,6568025
+High,Q3,G5,Rand Choice 1,West,Thursday,,q_const_0,q_const_0,8725147
+Low,Q1,G2,Rand Choice 1,South,Monday,label num lo 4,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 1,East,Tuesday,label num lo 3,q_const_0,q_const_0,9563812
+High,Q4,G5,Rand Choice 1,East,Sunday,,q_const_0,q_const_0,
+High,Q3,G5,,South,Tuesday,label num lo 4,q_const_0,q_const_0,6653847
+Low,Q1,G1,Rand Choice 1,South,Tuesday,,q_const_0,q_const_0,8397677
+Low,Q2,G3,,South,Tuesday,,q_const_0,q_const_0,3030686
+Low,,G1,Rand Choice 1,South,Monday,,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 2,West,Thursday,label num lo 1,q_const_0,q_const_0,6499117
+Low,,,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,5089520
+High,Q3,G5,Rand Choice 2,West,Sunday,,q_const_0,q_const_0,2905745
+Low,Q2,G3,Rand Choice 2,West,Monday,label num lo 1,q_const_0,q_const_0,
+High,Q4,G6,,West,Sunday,label num lo 2,q_const_0,q_const_0,1705070
+Low,,G3,Rand Choice 1,East,Sunday,label num lo 3,q_const_0,q_const_0,7822341
+High,,,Rand Choice 2,North,Sunday,label num lo 1,q_const_0,q_const_0,6300854
+Low,Q2,G3,Rand Choice 2,East,Friday,label num lo 2,q_const_0,q_const_0,4247716
+High,Q3,G4,Rand Choice 2,West,Saturday,label num lo 3,q_const_0,q_const_0,7029964
+High,,G5,Rand Choice 2,South,Saturday,,q_const_0,q_const_0,0208256
+Low,Q1,G3,,South,Thursday,label num lo 1,q_const_0,q_const_0,7111544
+High,Q3,G5,Rand Choice 1,North,Thursday,label num lo 2,q_const_0,q_const_0,
+Low,,G2,Rand Choice 1,West,Saturday,,q_const_0,q_const_0,6940578
+Low,Q2,G3,Rand Choice 2,South,Monday,label num lo 2,q_const_0,q_const_0,9699099
+High,Q3,G5,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0_2,9427917
+High,Q3,G4,Rand Choice 1,North,Monday,label num lo 2,q_const_0,q_const_0,7594075
+High,,G4,Rand Choice 1,West,Sunday,,q_const_0,q_const_0,2243723
+High,,G4,Rand Choice 1,North,Friday,label num lo 2,q_const_0,q_const_0,2972729
+Low,Q2,G3,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,6730594
+High,,G6,Rand Choice 1,South,Friday,label num lo 1,q_const_0,q_const_0,5426096
+High,Q4,G6,,East,Sunday,label num lo 3,q_const_0,q_const_0,8271679
+High,,G6,,South,Thursday,,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 2,East,Friday,label num lo 3,q_const_0,q_const_0,
+Low,Q1,G3,Rand Choice 1,South,Saturday,,q_const_0,q_const_0,1407601
+High,Q3,G5,,South,Thursday,label num lo 3,q_const_0,q_const_0,0509041
+High,Q4,G6,Rand Choice 2,West,Friday,,q_const_0,q_const_0,3891842
+Low,Q2,G3,Rand Choice 2,North,Wednesday,label num lo 1,q_const_0,q_const_0,8452201
+Low,Q1,G1,,West,Wednesday,,q_const_0,q_const_0,
+High,Q4,,Rand Choice 1,East,Friday,label num lo 3,q_const_0,q_const_0,4245922
+Low,Q1,G2,Rand Choice 1,West,Sunday,label num lo 4,q_const_0,q_const_0,
+High,,G6,Rand Choice 2,South,Sunday,label num lo 4,q_const_0,q_const_0,6063054
+Low,Q1,,,South,Monday,label num lo 4,q_const_0,q_const_0,2743399
+High,,G5,Rand Choice 2,West,Wednesday,label num lo 4,q_const_0,q_const_0,4197982
+High,,G6,Rand Choice 2,South,Sunday,label num lo 2,q_const_0,q_const_0,1836592
+High,,G6,Rand Choice 1,South,Saturday,label num lo 4,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 2,South,Friday,,q_const_0,q_const_0,
+High,,G6,,South,Thursday,label num lo 3,q_const_0,q_const_0,8501176
+High,Q4,G6,Rand Choice 1,South,Monday,label num lo 1,q_const_0,q_const_0,2682620
+High,Q4,G6,,South,Tuesday,label num lo 1,q_const_0,q_const_0,7538460
+High,Q3,G4,,South,Wednesday,label num lo 4,q_const_0,q_const_0,8335682
+High,Q3,G4,Rand Choice 2,East,Tuesday,label num lo 3,q_const_0,q_const_0,7517804
+Low,Q2,G3,Rand Choice 1,North,Saturday,label num lo 1,q_const_0,q_const_0,5528153
+High,Q4,G6,Rand Choice 1,North,Monday,label num lo 1,q_const_0,q_const_0,1442371
+High,Q4,G6,Rand Choice 2,South,Thursday,label num lo 3,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,7721877
+Low,Q1,G1,,South,Tuesday,label num lo 3,q_const_0,q_const_0,
+Low,,G2,Rand Choice 1,East,,label num lo 1,q_const_0,q_const_0,9827312
+Low,,G1,Rand Choice 2,East,Monday,label num lo 2,q_const_0,q_const_0,9030614
+Low,Q2,G3,Rand Choice 2,South,Thursday,label num lo 4,q_const_0,q_const_0,3722830
+Low,,,Rand Choice 2,South,Tuesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G4,,North,Saturday,label num lo 3,q_const_0,q_const_0,5713771
+High,Q3,G5,Rand Choice 2,North,,label num lo 1,q_const_0,q_const_0,6789033
+Low,,G4,Rand Choice 1,South,Sunday,label num lo 2,q_const_0,q_const_0,
+High,Q4,G6,,West,Tuesday,label num lo 1,q_const_0,q_const_0,
+High,,G6,Rand Choice 2,South,Sunday,label num lo 2,q_const_0,q_const_0,7852467
+Low,Q2,,Rand Choice 1,North,Saturday,,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 2,West,Friday,,q_const_0,q_const_0,
+Low,Q2,,Rand Choice 1,West,Monday,,q_const_0,q_const_0,8803571
+Low,,G4,Rand Choice 1,East,Wednesday,label num lo 4,q_const_0,q_const_0,1749305
+Low,Q2,G3,,West,Saturday,label num lo 3,q_const_0,q_const_0,8024073
+Low,,G4,,North,Tuesday,,q_const_0,q_const_0,2168633
+Low,Q1,G1,,North,Tuesday,label num lo 3,q_const_0,q_const_0,2180040
+Low,Q2,G4,Rand Choice 2,West,Monday,label num lo 4,q_const_0,q_const_0,0618089
+Low,Q2,G3,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0,8838826
+Low,Q2,G4,Rand Choice 1,West,Saturday,,q_const_0,q_const_0,1076288
+High,Q4,G6,,West,Monday,,q_const_0,q_const_0,
+Low,,G3,,East,Thursday,label num lo 2,q_const_0,q_const_0,8564040
+Low,,G4,,West,Saturday,label num lo 4,q_const_0,q_const_0,6446303
+High,Q4,G6,Rand Choice 1,North,Thursday,label num lo 1,q_const_0,q_const_0,3338360
+Low,Q2,,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0,0275551
+High,Q3,G5,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0,0840613
+Low,Q1,G2,Rand Choice 1,East,Saturday,,q_const_0,q_const_0,4352237
+High,Q3,G5,Rand Choice 2,South,Monday,label num lo 1,q_const_0,q_const_0,3276594
+Low,Q1,G2,Rand Choice 1,North,Friday,label num lo 2,q_const_0,q_const_0,3052132
+High,Q4,,,West,Sunday,,q_const_0,q_const_0,2190373
+High,,G5,Rand Choice 2,South,Wednesday,label num lo 3,q_const_0,q_const_0,8746107
+Low,Q1,,,South,Tuesday,label num lo 1,q_const_0,q_const_0,5829642
+High,Q3,G5,Rand Choice 1,North,Tuesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 2,North,Saturday,,q_const_0,q_const_0,2727262
+Low,Q2,G3,Rand Choice 1,West,Sunday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,,,North,Thursday,,q_const_0,q_const_0,3579457
+Low,Q2,G3,,East,Monday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,West,Friday,label num lo 3,q_const_0,q_const_0,5745430
+Low,Q1,G2,,West,Tuesday,,q_const_0,q_const_0,5524113
+Low,Q2,G3,,East,Sunday,,q_const_0,q_const_0,7974595
+Low,Q1,G3,,West,Wednesday,,q_const_0,q_const_0,7956634
+High,,G6,,East,Thursday,label num lo 3,q_const_0,q_const_0,5111761
+Low,Q1,G1,Rand Choice 1,East,,,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 1,North,,label num lo 4,q_const_0,q_const_0_2,7372605
+Low,Q1,G3,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,6098263
+High,,G6,Rand Choice 2,East,Friday,label num lo 3,q_const_0,q_const_0,1167295
+High,Q3,G5,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,7666531
+Low,Q1,G2,Rand Choice 1,South,Sunday,label num lo 4,q_const_0,q_const_0,6152647
+Low,,G3,Rand Choice 2,East,Wednesday,,q_const_0,q_const_0,
+Low,,G3,Rand Choice 1,North,Wednesday,label num lo 2,q_const_0,q_const_0,8023827
+High,Q3,G4,,East,Monday,label num lo 1,q_const_0,q_const_0,
+Low,,G3,Rand Choice 1,West,Sunday,label num lo 1,q_const_0,q_const_0,4428419
+Low,Q1,G1,,West,Sunday,,q_const_0,q_const_0,
+High,Q4,G6,,West,Sunday,,q_const_0,q_const_0,3162786
+High,Q4,G6,Rand Choice 2,North,Friday,,q_const_0,q_const_0,9115203
+High,Q3,,,West,Thursday,label num lo 4,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,South,Sunday,,q_const_0,q_const_0,9516807
+High,Q4,G6,Rand Choice 1,South,Sunday,label num lo 4,q_const_0,q_const_0,4084987
+High,Q3,G4,Rand Choice 1,West,Thursday,label num lo 1,q_const_0,q_const_0,
+Low,,G4,,East,Wednesday,label num lo 2,q_const_0,q_const_0,6936559
+Low,Q2,,Rand Choice 2,North,Tuesday,,q_const_0,q_const_0,4329631
+Low,,G2,Rand Choice 2,East,Monday,label num lo 4,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 1,East,Monday,,q_const_0,q_const_0,1450203
+High,Q4,G6,Rand Choice 2,East,Monday,label num lo 4,q_const_0,q_const_0,9233586
+High,Q4,,Rand Choice 2,East,Thursday,label num lo 1,q_const_0,q_const_0,7562289
+Low,Q1,G1,Rand Choice 2,East,Thursday,label num lo 3,q_const_0,q_const_0,8753689
+Low,,G3,Rand Choice 2,North,Sunday,label num lo 1,q_const_0,q_const_0,6550087
+Low,Q1,G2,Rand Choice 1,West,Friday,,q_const_0,q_const_0,4012847
+High,Q4,G6,,East,Saturday,label num lo 3,q_const_0,q_const_0,7353799
+Low,Q2,G4,Rand Choice 2,East,Saturday,label num lo 4,q_const_0,q_const_0,7550148
+Low,Q2,G3,Rand Choice 1,South,Thursday,label num lo 4,q_const_0,q_const_0,4205604
+Low,,G1,,North,Friday,label num lo 2,q_const_0,q_const_0,4429651
+Low,,G1,,East,Tuesday,label num lo 3,q_const_0,q_const_0,4317199
+Low,,G3,Rand Choice 2,North,Tuesday,label num lo 1,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,North,Wednesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,,South,Monday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 1,East,Thursday,label num lo 3,q_const_0,q_const_0,8006497
+High,Q3,G4,Rand Choice 2,East,Wednesday,label num lo 2,q_const_0,q_const_0,8076838
+High,Q3,G5,Rand Choice 1,North,Friday,,q_const_0,q_const_0,3042480
+High,Q3,G5,Rand Choice 2,North,Tuesday,label num lo 3,q_const_0,q_const_0,0572053
+High,,G5,,South,Tuesday,label num lo 1,q_const_0,q_const_0,7087008
+High,,G6,,North,Monday,,q_const_0,q_const_0,2663037
+Low,Q1,G3,Rand Choice 1,North,Friday,label num lo 2,q_const_0,q_const_0,6228411
+Low,Q2,G3,Rand Choice 2,East,Sunday,label num lo 1,q_const_0,q_const_0,3197916
+Low,Q2,G4,,West,Friday,,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 1,South,,label num lo 2,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,East,Friday,,q_const_0,q_const_0,3566164
+High,Q3,G4,,East,Friday,,q_const_0,q_const_0,
+Low,,,,South,Tuesday,label num lo 2,q_const_0,q_const_0,1263376
+High,Q4,G6,Rand Choice 1,North,Saturday,,q_const_0,q_const_0,9770182
+High,Q3,G4,Rand Choice 2,West,Thursday,,q_const_0,q_const_0,4034580
+Low,Q2,,Rand Choice 1,North,Tuesday,,q_const_0,q_const_0,0553914
+High,Q3,G5,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,
+Low,Q1,G3,Rand Choice 1,North,Sunday,label num lo 4,q_const_0,q_const_0,3977054
+High,Q3,G5,Rand Choice 2,South,Saturday,,q_const_0,q_const_0,4484778
+High,,G5,Rand Choice 2,East,Saturday,label num lo 2,q_const_0,q_const_0,0519395
+High,Q3,G4,Rand Choice 2,South,Sunday,label num lo 1,q_const_0_2,q_const_0,
+Low,Q2,G4,,West,Sunday,label num lo 2,q_const_0,q_const_0,8068842
+High,Q3,G5,,West,Wednesday,,q_const_0,q_const_0,3466132
+High,,G6,Rand Choice 1,South,,label num lo 3,q_const_0,q_const_0,9623069
+Low,Q2,G3,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,3297348
+High,Q3,G4,,South,Friday,label num lo 1,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,7196148
+Low,Q1,G3,,East,Wednesday,label num lo 2,q_const_0,q_const_0,9823893
+High,Q4,,Rand Choice 1,West,Saturday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 2,North,Tuesday,,q_const_0,q_const_0,1680123
+High,Q4,G5,,North,Saturday,label num lo 3,q_const_0,q_const_0,6368451
+Low,Q2,G3,,East,Monday,label num lo 1,q_const_0,q_const_0,2255812
+Low,Q2,G3,,West,Saturday,,q_const_0,q_const_0,6203584
+High,,G5,,South,Sunday,,q_const_0,q_const_0,2276817
+High,,G5,Rand Choice 1,South,Friday,label num lo 2,q_const_0,q_const_0,5105079
+Low,,G3,Rand Choice 2,South,Wednesday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G3,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,2065268
+Low,Q2,G4,Rand Choice 2,West,Sunday,label num lo 2,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 1,South,Tuesday,label num lo 4,q_const_0,q_const_0,4630071
+High,,G5,Rand Choice 1,North,Sunday,label num lo 1,q_const_0,q_const_0,3399490
+High,Q3,G5,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,6310647
+Low,Q2,,,North,Saturday,label num lo 4,q_const_0_1,q_const_0,4929950
+High,Q3,G5,Rand Choice 1,South,Friday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G4,,West,Tuesday,label num lo 2,q_const_0,q_const_0,3472000
+Low,Q2,G3,,South,Saturday,label num lo 3,q_const_0,q_const_0,5441866
+High,Q4,G6,,West,Saturday,,q_const_0,q_const_0,3718590
+High,,G5,Rand Choice 1,East,Thursday,label num lo 4,q_const_0,q_const_0,3146241
+Low,Q1,G1,Rand Choice 2,South,Wednesday,,q_const_0,q_const_0_1,9597654
+High,Q3,G5,Rand Choice 2,East,Wednesday,label num lo 3,q_const_0,q_const_0,9623955
+High,Q3,G4,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,5366233
+High,Q4,G6,Rand Choice 2,South,Saturday,,q_const_0,q_const_0,3336443
+Low,Q1,G3,Rand Choice 1,East,Tuesday,label num lo 2,q_const_0,q_const_0,3622338
+High,Q4,G6,,West,Wednesday,label num lo 3,q_const_0,q_const_0,7941495
+High,,G6,Rand Choice 2,South,Monday,label num lo 1,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 2,North,Friday,,q_const_0,q_const_0,
+High,,G6,Rand Choice 1,East,Thursday,label num lo 2,q_const_0,q_const_0,7549661
+Low,Q1,G3,Rand Choice 2,North,Sunday,label num lo 4,q_const_0,q_const_0,9201975
+High,Q3,G5,Rand Choice 1,East,Friday,,q_const_0,q_const_0,6028019
+High,Q3,G5,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 2,North,Saturday,label num lo 4,q_const_0,q_const_0,8918895
+High,Q4,G6,Rand Choice 2,West,Sunday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 2,East,Friday,label num lo 4,q_const_0,q_const_0,4109769
+High,,G6,Rand Choice 2,North,Thursday,label num lo 4,q_const_0,q_const_0,
+High,,G4,Rand Choice 1,South,Monday,label num lo 3,q_const_0,q_const_0,4561090
+High,Q3,G5,Rand Choice 1,South,Wednesday,label num lo 3,q_const_0,q_const_0,3710211
+Low,,G3,Rand Choice 2,East,Wednesday,label num lo 3,q_const_0,q_const_0,8739249
+Low,Q1,G2,Rand Choice 1,East,Thursday,,q_const_0,q_const_0,8527927
+Low,,G1,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,8098399
+Low,,G3,Rand Choice 2,South,Wednesday,label num lo 3,q_const_0,q_const_0,2479210
+Low,Q1,,Rand Choice 1,West,Thursday,label num lo 3,q_const_0,q_const_0,5123997
+Low,,G2,Rand Choice 2,North,Monday,,q_const_0,q_const_0,2399838
+Low,Q2,G3,Rand Choice 2,East,Wednesday,label num lo 4,q_const_0,q_const_0,
+High,,G6,Rand Choice 1,North,Tuesday,label num lo 2,q_const_0,q_const_0,7466432
+High,Q3,G5,Rand Choice 2,East,Wednesday,,q_const_0,q_const_0,2521642
+Low,Q1,G1,Rand Choice 1,North,Tuesday,label num lo 4,q_const_0,q_const_0,2791829
+High,Q3,G5,Rand Choice 1,East,,label num lo 2,q_const_0,q_const_0,7955586
+High,,G5,,South,Monday,,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 2,South,Wednesday,label num lo 2,q_const_0,q_const_0,7927352
+Low,,,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0,
+High,Q4,G5,,East,Tuesday,label num lo 2,q_const_0,q_const_0,9548894
+High,,G4,Rand Choice 2,West,Friday,label num lo 3,q_const_0,q_const_0,1704065
+High,,,Rand Choice 2,South,Friday,label num lo 1,q_const_0,q_const_0,8061458
+Low,Q2,G3,,East,Tuesday,label num lo 1,q_const_0,q_const_0,9233469
+Low,,G1,Rand Choice 2,North,Sunday,label num lo 3,q_const_0,q_const_0,5138239
+Low,,G1,Rand Choice 2,South,Friday,,q_const_0_2,q_const_0,5664138
+High,,G5,Rand Choice 1,North,Thursday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 1,West,Friday,,q_const_0,q_const_0,9630195
+High,Q3,G5,,South,Thursday,,q_const_0,q_const_0,9294840
+Low,Q1,G2,Rand Choice 2,South,Saturday,label num lo 1,q_const_0,q_const_0,4103048
+High,Q4,G5,Rand Choice 1,South,Sunday,label num lo 4,q_const_0,q_const_0,3934217
+High,Q4,G5,,East,Sunday,label num lo 4,q_const_0,q_const_0,4968990
+High,Q3,G5,Rand Choice 1,East,Friday,label num lo 4,q_const_0,q_const_0,8528684
+High,Q4,G5,,West,Saturday,label num lo 2,q_const_0,q_const_0,9178812
+Low,Q2,G3,Rand Choice 2,West,Tuesday,,q_const_0,q_const_0,3111127
+Low,,G3,Rand Choice 2,North,Monday,label num lo 2,q_const_0,q_const_0,4930383
+High,,G6,Rand Choice 1,East,Tuesday,label num lo 4,q_const_0,q_const_0,0699288
+High,Q3,G4,Rand Choice 1,South,Tuesday,label num lo 2,q_const_0,q_const_0,3903194
+High,Q4,,,South,Tuesday,,q_const_0,q_const_0,8756414
+High,Q4,G5,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,
+Low,Q1,G3,Rand Choice 1,South,Friday,label num lo 4,q_const_0,q_const_0,2860045
+Low,,G2,Rand Choice 1,South,Tuesday,,q_const_0,q_const_0,7271886
+High,Q3,G4,,North,Thursday,,q_const_0,q_const_0,4343813
+Low,,G4,Rand Choice 1,West,,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,
+High,,G5,Rand Choice 1,East,Friday,,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 1,North,Thursday,label num lo 3,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,North,Sunday,label num lo 2,q_const_0,q_const_0,7377790
+High,Q3,,Rand Choice 1,West,Friday,,q_const_0,q_const_0,1043820
+Low,Q1,G2,Rand Choice 1,West,Saturday,,q_const_0,q_const_0,0926432
+Low,,G2,,North,Tuesday,label num lo 2,q_const_0,q_const_0,7334663
+High,,G6,,North,Thursday,label num lo 1,q_const_0,q_const_0,2906355
+Low,Q2,G4,Rand Choice 2,North,Tuesday,,q_const_0,q_const_0,9356769
+Low,Q1,G1,Rand Choice 1,East,Friday,label num lo 3,q_const_0,q_const_0,6674951
+High,,,,East,Sunday,label num lo 3,q_const_0,q_const_0,5761152
+High,Q4,G6,Rand Choice 2,West,Sunday,label num lo 3,q_const_0,q_const_0,9617967
+Low,Q2,G4,,East,Sunday,,q_const_0,q_const_0_2,3424831
+Low,Q1,G1,,East,Thursday,,q_const_0,q_const_0,0481375
+Low,Q2,G3,,East,Sunday,,q_const_0,q_const_0,9793316
+Low,Q2,G4,,North,Tuesday,,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,South,Sunday,label num lo 2,q_const_0,q_const_0,
+High,,,Rand Choice 1,North,Friday,label num lo 3,q_const_0,q_const_0,2040036
+High,,G5,Rand Choice 1,East,,label num lo 3,q_const_0,q_const_0,6951939
+High,Q3,G5,,West,Saturday,,q_const_0,q_const_0,7922314
+Low,Q1,G2,Rand Choice 1,West,Sunday,label num lo 2,q_const_0,q_const_0_2,5716188
+Low,Q1,G1,Rand Choice 1,West,Saturday,label num lo 2,q_const_0,q_const_0,2637398
+Low,Q2,G4,,South,Wednesday,,q_const_0,q_const_0,8388715
+Low,Q1,G2,Rand Choice 2,West,Friday,label num lo 3,q_const_0,q_const_0,1929820
+Low,Q2,G3,Rand Choice 2,East,Saturday,label num lo 3,q_const_0,q_const_0,6726444
+Low,Q2,G4,Rand Choice 2,West,Monday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G2,,East,Wednesday,label num lo 1,q_const_0,q_const_0,6800969
+Low,Q1,G1,Rand Choice 2,South,Sunday,label num lo 2,q_const_0,q_const_0,6575178
+Low,Q1,G1,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,5765694
+High,Q4,G6,,East,Thursday,label num lo 1,q_const_0,q_const_0,4467864
+High,Q4,,Rand Choice 1,North,Wednesday,label num lo 1,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,South,,label num lo 4,q_const_0,q_const_0,6684861
+High,Q4,,Rand Choice 2,West,Monday,,q_const_0,q_const_0,8407465
+High,Q4,G6,Rand Choice 2,East,Wednesday,,q_const_0,q_const_0,2199361
+High,,G5,,East,Monday,label num lo 2,q_const_0,q_const_0,6783463
+High,,G5,Rand Choice 1,West,Sunday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G1,,South,Saturday,,q_const_0,q_const_0,
+Low,Q2,G4,,North,,label num lo 1,q_const_0,q_const_0,1879979
+High,,G5,Rand Choice 2,West,Tuesday,label num lo 4,q_const_0,q_const_0,7566428
+Low,Q1,,Rand Choice 2,North,Monday,,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 1,East,Friday,label num lo 2,q_const_0,q_const_0,4364381
+Low,,G1,Rand Choice 2,East,Sunday,,q_const_0,q_const_0,8199635
+Low,Q1,G1,Rand Choice 1,South,Sunday,label num lo 3,q_const_0,q_const_0,5353060
+Low,,G3,,West,Monday,label num lo 1,q_const_0,q_const_0,9825563
+Low,Q1,G3,Rand Choice 1,North,Friday,label num lo 4,q_const_0,q_const_0,2214614
+High,Q4,G6,,West,Friday,label num lo 3,q_const_0,q_const_0,8308829
+High,,G5,,South,Saturday,,q_const_0,q_const_0,8594421
+Low,Q2,G4,Rand Choice 2,East,Saturday,label num lo 4,q_const_0,q_const_0,5222504
+Low,Q1,G2,,East,,label num lo 3,q_const_0,q_const_0,0213103
+High,Q3,,,West,Thursday,label num lo 4,q_const_0,q_const_0,1159608
+Low,Q2,G3,,South,Sunday,label num lo 1,q_const_0,q_const_0,4281827
+High,,,Rand Choice 2,North,Thursday,label num lo 4,q_const_0,q_const_0,7887312
+High,Q3,,Rand Choice 1,West,Wednesday,,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,East,,label num lo 4,q_const_0,q_const_0,6902240
+High,Q3,G4,Rand Choice 2,South,Friday,label num lo 1,q_const_0,q_const_0,8489845
+High,,G5,,North,Tuesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 2,West,Thursday,label num lo 2,q_const_0,q_const_0,7980367
+Low,Q1,G3,,West,Tuesday,label num lo 2,q_const_0,q_const_0,2009520
+Low,Q2,G3,Rand Choice 1,North,Saturday,,q_const_0,q_const_0,7721293
+Low,Q2,G3,Rand Choice 2,East,Thursday,label num lo 1,q_const_0,q_const_0,1726365
+Low,Q1,G3,,West,Thursday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,North,Sunday,label num lo 3,q_const_0,q_const_0,8285204
+High,,G4,Rand Choice 1,East,Sunday,label num lo 2,q_const_0,q_const_0,3921811
+Low,,,Rand Choice 2,South,Thursday,label num lo 2,q_const_0,q_const_0,9491922
+High,Q3,G4,Rand Choice 1,South,Friday,label num lo 2,q_const_0,q_const_0,1165557
+High,Q3,G4,Rand Choice 1,North,Wednesday,label num lo 2,q_const_0,q_const_0,3052455
+High,Q3,G4,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,1014959
+High,Q3,G4,Rand Choice 1,East,Wednesday,,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 1,South,Wednesday,label num lo 2,q_const_0,q_const_0,5603416
+Low,,G3,Rand Choice 1,West,Thursday,label num lo 4,q_const_0,q_const_0,9462683
+High,,G4,Rand Choice 2,North,Sunday,,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,North,Wednesday,label num lo 2,q_const_0,q_const_0,9263372
+Low,Q2,,Rand Choice 2,South,Friday,label num lo 3,q_const_0,q_const_0,9280482
+Low,,,Rand Choice 1,North,Friday,,q_const_0,q_const_0,2430262
+High,Q3,G5,Rand Choice 2,North,Saturday,label num lo 2,q_const_0,q_const_0,9705885
+Low,Q1,G1,,North,Friday,label num lo 1,q_const_0,q_const_0,8616790
+Low,Q2,G3,Rand Choice 2,East,Sunday,label num lo 1,q_const_0,q_const_0,6167572
+Low,Q2,G3,Rand Choice 1,East,Monday,label num lo 4,q_const_0,q_const_0,
+Low,,G1,Rand Choice 1,South,Wednesday,label num lo 3,q_const_0,q_const_0,
+High,,G4,,West,Monday,,q_const_0,q_const_0,3347973
+Low,,G2,,West,Thursday,label num lo 3,q_const_0,q_const_0,9255476
+High,Q4,G6,Rand Choice 1,North,Saturday,,q_const_0,q_const_0,9754238
+Low,Q1,G2,Rand Choice 1,West,Saturday,label num lo 4,q_const_0,q_const_0,0494973
+High,Q3,G5,Rand Choice 1,West,Tuesday,,q_const_0,q_const_0,9619592
+Low,Q2,G4,Rand Choice 1,South,Friday,label num lo 4,q_const_0,q_const_0,2202319
+High,,G5,,West,Friday,label num lo 1,q_const_0,q_const_0,1064400
+Low,Q2,G4,Rand Choice 2,West,Saturday,,q_const_0,q_const_0,3506884
+Low,Q2,G3,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,3924358
+Low,Q2,G3,Rand Choice 1,South,Saturday,label num lo 4,q_const_0,q_const_0,7484697
+Low,Q1,G1,,South,Tuesday,label num lo 4,q_const_0,q_const_0,2465053
+High,Q3,G4,Rand Choice 1,North,Sunday,label num lo 1,q_const_0,q_const_0,3747500
+Low,,G3,Rand Choice 2,South,Thursday,label num lo 1,q_const_0,q_const_0,
+Low,,G2,Rand Choice 1,North,Thursday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 1,South,Tuesday,,q_const_0,q_const_0,4037355
+High,Q4,,,South,Friday,label num lo 4,q_const_0,q_const_0,4193860
+Low,Q2,G4,,North,Tuesday,,q_const_0,q_const_0,
+High,Q4,G5,Rand Choice 1,East,Monday,,q_const_0,q_const_0,2607167
+Low,Q1,G2,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,7206160
+High,Q3,G4,,North,Sunday,label num lo 3,q_const_0,q_const_0,9194831
+High,Q3,G5,Rand Choice 1,East,Tuesday,label num lo 1,q_const_0,q_const_0,8068281
+Low,,G2,Rand Choice 2,South,Tuesday,label num lo 4,q_const_0,q_const_0,0117788
+Low,Q2,G3,,West,Tuesday,label num lo 4,q_const_0,q_const_0,7486724
+High,Q3,G5,Rand Choice 1,South,Wednesday,label num lo 1,q_const_0,q_const_0,5474243
+High,Q3,G4,Rand Choice 1,East,Tuesday,label num lo 2,q_const_0,q_const_0,6919573
+Low,Q2,,Rand Choice 2,North,Saturday,,q_const_0,q_const_0,
+High,,G4,Rand Choice 2,North,Saturday,label num lo 4,q_const_0,q_const_0,
+High,Q4,G6,,East,Friday,label num lo 3,q_const_0,q_const_0,3140765
+High,Q4,G6,,East,Wednesday,label num lo 3,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 2,East,Thursday,label num lo 1,q_const_0,q_const_0,4949114
+Low,,G1,,South,Friday,label num lo 1,q_const_0,q_const_0,0829596
+High,Q4,G6,Rand Choice 2,East,Friday,label num lo 3,q_const_0,q_const_0,6689178
+Low,Q1,G1,,South,Tuesday,label num lo 4,q_const_0,q_const_0,6840580
+High,Q4,G6,Rand Choice 1,North,Thursday,,q_const_0_1,q_const_0,7916971
+High,Q3,G5,Rand Choice 1,North,Tuesday,label num lo 2,q_const_0,q_const_0,2459051
+High,Q3,G5,Rand Choice 1,South,Monday,label num lo 2,q_const_0,q_const_0,
+High,,G6,,South,Thursday,label num lo 3,q_const_0,q_const_0,2196971
+High,Q4,G5,Rand Choice 1,South,Wednesday,,q_const_0,q_const_0,4890825
+Low,Q2,G4,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,0357311
+High,Q3,,,South,Tuesday,,q_const_0,q_const_0,7198347
+High,Q3,G4,,West,,,q_const_0,q_const_0,
+High,Q4,G5,,South,Monday,label num lo 4,q_const_0,q_const_0,6476450
+High,Q3,G5,,West,Monday,label num lo 1,q_const_0,q_const_0,9331273
+Low,Q2,G3,,South,Monday,label num lo 1,q_const_0,q_const_0,1255394
+High,Q4,G6,Rand Choice 1,West,Tuesday,label num lo 3,q_const_0,q_const_0,6790190
+High,Q3,G4,Rand Choice 2,South,Monday,label num lo 1,q_const_0,q_const_0,9574661
+Low,Q2,,,South,Thursday,label num lo 3,q_const_0,q_const_0,4931975
+High,Q4,G6,Rand Choice 1,North,Tuesday,label num lo 1,q_const_0,q_const_0,9758288
+High,Q4,G6,Rand Choice 1,North,Friday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G1,,South,Saturday,label num lo 4,q_const_0,q_const_0,8388526
+High,Q4,G6,Rand Choice 1,North,Monday,,q_const_0,q_const_0,8479204
+Low,Q2,G3,Rand Choice 2,South,Tuesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,,Rand Choice 2,North,,label num lo 1,q_const_0,q_const_0,7621363
+High,Q3,G5,,South,Sunday,,q_const_0,q_const_0,8716244
+High,,G6,,North,Friday,,q_const_0,q_const_0,5602265
+Low,Q1,G2,Rand Choice 1,South,Wednesday,,q_const_0,q_const_0,8026174
+High,Q3,G5,,South,Saturday,label num lo 4,q_const_0,q_const_0,5658652
+Low,,,Rand Choice 2,West,Wednesday,,q_const_0,q_const_0,3564257
+Low,Q1,G1,Rand Choice 2,North,,label num lo 3,q_const_0,q_const_0,6201607
+Low,,G3,Rand Choice 2,East,Thursday,label num lo 2,q_const_0,q_const_0,2850565
+High,Q3,G5,Rand Choice 1,East,,,q_const_0,q_const_0,1624406
+Low,Q2,G3,Rand Choice 2,West,Wednesday,label num lo 1,q_const_0,q_const_0,4815719
+Low,Q1,,Rand Choice 2,West,Saturday,label num lo 4,q_const_0,q_const_0,2140683
+Low,,G2,Rand Choice 2,West,Sunday,label num lo 1,q_const_0,q_const_0,8681352
+Low,,G3,Rand Choice 2,West,Thursday,label num lo 1,q_const_0,q_const_0,9811904
+High,,G5,,East,Monday,label num lo 1,q_const_0,q_const_0,6532442
+High,Q4,G6,Rand Choice 1,South,Monday,label num lo 4,q_const_0,q_const_0,4356028
+Low,Q1,G3,Rand Choice 1,South,Monday,,q_const_0,q_const_0,3821777
+High,Q3,G4,,South,Friday,label num lo 1,q_const_0,q_const_0,4298368
+High,Q3,G5,Rand Choice 2,North,Saturday,,q_const_0,q_const_0,9590252
+Low,Q1,G1,Rand Choice 1,West,Friday,label num lo 1,q_const_0,q_const_0,7219513
+High,Q4,G5,Rand Choice 1,West,Wednesday,label num lo 4,q_const_0,q_const_0,
+High,Q4,G6,,South,Tuesday,label num lo 4,q_const_0,q_const_0,5309012
+Low,,G3,,South,Sunday,label num lo 2,q_const_0,q_const_0,
+Low,,G2,Rand Choice 2,East,Monday,label num lo 2,q_const_0,q_const_0,9929291
+High,,,Rand Choice 2,East,Thursday,label num lo 2,q_const_0,q_const_0,9267848
+High,Q4,G6,Rand Choice 2,South,Saturday,,q_const_0,q_const_0,
+Low,Q2,G4,,West,Friday,label num lo 1,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 2,East,Monday,,q_const_0,q_const_0,9416926
+Low,Q1,,Rand Choice 1,North,,,q_const_0,q_const_0,0939943
+High,Q4,G6,,East,Tuesday,label num lo 1,q_const_0,q_const_0,
+High,Q4,G6,,East,Thursday,label num lo 1,q_const_0,q_const_0,8419368
+Low,Q2,G4,Rand Choice 1,North,Tuesday,label num lo 3,q_const_0,q_const_0,2764355
+High,Q4,G6,,West,Thursday,,q_const_0,q_const_0,2524286
+Low,Q1,G1,Rand Choice 2,West,Sunday,,q_const_0,q_const_0,9647870
+Low,Q2,G4,,West,Thursday,label num lo 2,q_const_0,q_const_0,2296556
+Low,Q2,G4,Rand Choice 2,West,Sunday,label num lo 3,q_const_0,q_const_0,9472985
+Low,Q1,G2,Rand Choice 2,North,Saturday,label num lo 2,q_const_0,q_const_0,1997972
+High,Q4,G6,Rand Choice 2,West,Monday,,q_const_0,q_const_0,5818492
+Low,Q2,G3,Rand Choice 1,East,Thursday,,q_const_0,q_const_0,2587451
+Low,,G4,Rand Choice 2,East,Monday,,q_const_0,q_const_0,5209589
+Low,Q1,G2,Rand Choice 1,East,Tuesday,label num lo 4,q_const_0,q_const_0,9087714
+Low,Q1,G1,,West,Wednesday,,q_const_0,q_const_0,
+High,Q4,G5,,East,Tuesday,,q_const_0,q_const_0,2658333
+High,Q3,G5,Rand Choice 1,South,,label num lo 4,q_const_0,q_const_0,6238479
+Low,Q2,,Rand Choice 2,East,Friday,label num lo 4,q_const_0,q_const_0,0524194
+High,Q4,G5,Rand Choice 2,East,Sunday,label num lo 4,q_const_0,q_const_0,0823406
+High,Q4,G6,Rand Choice 1,East,Tuesday,label num lo 4,q_const_0,q_const_0,3682289
+High,Q3,G5,Rand Choice 2,South,Sunday,label num lo 4,q_const_0,q_const_0,5178655
+High,Q4,G5,,West,Wednesday,,q_const_0,q_const_0,
+High,Q3,,,East,Friday,label num lo 4,q_const_0,q_const_0,5525906
+Low,Q2,G3,Rand Choice 1,West,Wednesday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,North,Sunday,label num lo 3,q_const_0,q_const_0,
+Low,Q1,G1,,South,Friday,,q_const_0,q_const_0,2259499
+Low,Q2,G3,,North,Saturday,,q_const_0,q_const_0,4537853
+Low,,G3,Rand Choice 1,West,Saturday,label num lo 3,q_const_0,q_const_0,2938795
+High,Q3,G4,,South,,label num lo 1,q_const_0,q_const_0,8533184
+Low,Q1,G2,,North,,label num lo 1,q_const_0,q_const_0,6495847
+Low,,G3,Rand Choice 1,South,Friday,label num lo 1,q_const_0,q_const_0,
+High,,G6,Rand Choice 2,North,Sunday,label num lo 3,q_const_0,q_const_0,
+Low,,G2,Rand Choice 1,North,Saturday,,q_const_0,q_const_0,5431022
+Low,Q1,G1,Rand Choice 1,East,Thursday,label num lo 2,q_const_0,q_const_0,7198178
+Low,Q2,G4,Rand Choice 1,West,Wednesday,label num lo 2,q_const_0,q_const_0,7950902
+Low,Q2,G3,,West,Friday,,q_const_0,q_const_0,
+Low,,G4,Rand Choice 2,South,Thursday,label num lo 1,q_const_0,q_const_0,3425228
+Low,Q1,G2,,North,Sunday,label num lo 3,q_const_0,q_const_0,8462454
+High,Q4,G6,,South,Thursday,label num lo 3,q_const_0,q_const_0,4866520
+High,Q4,,Rand Choice 2,East,Monday,,q_const_0,q_const_0,1797949
+High,,,Rand Choice 1,North,Sunday,label num lo 3,q_const_0,q_const_0,
+Low,,G4,Rand Choice 1,North,Tuesday,label num lo 1,q_const_0,q_const_0,
+Low,,G2,Rand Choice 1,West,Monday,label num lo 2,q_const_0,q_const_0,
+Low,,G1,Rand Choice 2,North,Saturday,label num lo 1,q_const_0,q_const_0,4313009
+High,Q3,G4,Rand Choice 2,East,Monday,label num lo 1,q_const_0,q_const_0,0746113
+High,Q3,G4,Rand Choice 2,South,Monday,,q_const_0,q_const_0,9979231
+High,Q4,G5,Rand Choice 1,East,Tuesday,label num lo 3,q_const_0,q_const_0,9768514
+High,Q4,G6,Rand Choice 2,East,Monday,,q_const_0,q_const_0,5346282
+Low,Q2,,Rand Choice 1,East,Thursday,label num lo 4,q_const_0,q_const_0,9458410
+Low,Q2,,,East,Tuesday,label num lo 4,q_const_0,q_const_0,
+Low,,G1,Rand Choice 1,South,Monday,label num lo 2,q_const_0,q_const_0,9998723
+Low,Q2,G4,,West,Sunday,,q_const_0,q_const_0,5343144
+Low,Q1,G2,Rand Choice 2,South,Friday,label num lo 1,q_const_0,q_const_0,4084798
+High,Q3,G5,Rand Choice 1,East,Monday,label num lo 1,q_const_0,q_const_0,1605045
+High,Q4,G6,Rand Choice 2,South,Monday,label num lo 1,q_const_0,q_const_0,9952733
+Low,Q1,G3,Rand Choice 1,West,Monday,,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,East,,,q_const_0,q_const_0,6129744
+High,Q3,G5,,East,Saturday,label num lo 4,q_const_0,q_const_0,8297432
+High,Q4,G6,Rand Choice 2,North,Saturday,label num lo 3,q_const_0,q_const_0,4377160
+High,,G5,,East,Wednesday,label num lo 2,q_const_0,q_const_0,5116882
+High,Q4,G5,,North,Tuesday,,q_const_0,q_const_0,
+High,,G5,Rand Choice 2,West,Saturday,label num lo 1,q_const_0,q_const_0,0681089
+High,,G5,,East,Tuesday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G3,Rand Choice 1,North,Tuesday,label num lo 3,q_const_0,q_const_0,9863036
+Low,,G2,Rand Choice 2,East,Wednesday,label num lo 3,q_const_0,q_const_0,7849028
+High,,G5,Rand Choice 2,East,Thursday,,q_const_0,q_const_0,2779786
+High,Q4,G6,Rand Choice 2,North,Wednesday,label num lo 2,q_const_0,q_const_0,8380690
+High,Q4,G6,Rand Choice 2,North,Tuesday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 2,West,Sunday,label num lo 3,q_const_0,q_const_0,2329897
+Low,Q1,G2,Rand Choice 2,West,Thursday,label num lo 4,q_const_0,q_const_0,7789581
+Low,Q2,G4,Rand Choice 2,West,Friday,label num lo 1,q_const_0,q_const_0_1,4314762
+Low,Q2,G3,Rand Choice 2,South,Monday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G4,,North,Monday,label num lo 4,q_const_0,q_const_0,5581845
+Low,Q2,G3,Rand Choice 1,South,Saturday,label num lo 2,q_const_0,q_const_0,3050980
+High,,G6,Rand Choice 1,South,Saturday,,q_const_0,q_const_0,9010227
+Low,Q2,G4,Rand Choice 1,South,Monday,label num lo 2,q_const_0,q_const_0,2147146
+Low,,G3,Rand Choice 2,South,Saturday,label num lo 4,q_const_0,q_const_0,2049402
+High,,G4,Rand Choice 2,South,Monday,label num lo 2,q_const_0,q_const_0,
+High,,G6,Rand Choice 1,South,,label num lo 1,q_const_0,q_const_0,9503341
+Low,Q2,,Rand Choice 2,North,Thursday,,q_const_0,q_const_0,7597100
+Low,Q1,G2,Rand Choice 1,North,Monday,,q_const_0,q_const_0,
+High,Q3,G5,,West,,label num lo 1,q_const_0,q_const_0,
+High,,G5,,East,Tuesday,label num lo 1,q_const_0,q_const_0,
+High,,G5,Rand Choice 1,West,Friday,,q_const_0,q_const_0,9330070
+High,,G4,,South,Monday,label num lo 4,q_const_0,q_const_0,
+Low,,G2,,North,Sunday,label num lo 3,q_const_0,q_const_0,7001096
+High,,G5,Rand Choice 2,North,Monday,,q_const_0,q_const_0,7832344
+Low,,G4,Rand Choice 1,South,Monday,label num lo 1,q_const_0,q_const_0,4118443
+High,Q3,G5,,West,Thursday,label num lo 2,q_const_0,q_const_0,9934464
+High,Q4,G6,Rand Choice 2,South,Thursday,label num lo 1,q_const_0,q_const_0,9459855
+High,,G6,,North,Friday,,q_const_0,q_const_0,3794783
+High,,G5,Rand Choice 1,North,Tuesday,label num lo 4,q_const_0,q_const_0,8418203
+High,Q4,G6,,East,Tuesday,,q_const_0,q_const_0,0941869
+Low,Q1,G2,,East,Wednesday,label num lo 3,q_const_0,q_const_0,8344660
+High,,G5,Rand Choice 2,East,Saturday,label num lo 2,q_const_0,q_const_0,2462934
+High,,G4,Rand Choice 1,West,Friday,label num lo 1,q_const_0,q_const_0,3453160
+Low,,G4,Rand Choice 2,South,Saturday,label num lo 3,q_const_0,q_const_0,8688556
+Low,,G3,Rand Choice 2,South,Wednesday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 1,West,Saturday,,q_const_0,q_const_0,9186867
+High,,G6,Rand Choice 1,East,Friday,label num lo 4,q_const_0,q_const_0,7876988
+High,Q4,G5,Rand Choice 2,North,Thursday,,q_const_0,q_const_0,3480959
+Low,,G2,,South,Monday,label num lo 1,q_const_0,q_const_0,4912444
+Low,,G2,Rand Choice 1,East,Friday,label num lo 4,q_const_0,q_const_0,0558110
+Low,,G2,,East,Thursday,,q_const_0,q_const_0,9099249
+High,,G6,,West,Sunday,label num lo 1,q_const_0,q_const_0,
+High,,G5,Rand Choice 1,North,Thursday,label num lo 3,q_const_0,q_const_0,5975977
+Low,Q2,G4,Rand Choice 2,North,Monday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G4,,West,Monday,,q_const_0,q_const_0,4992583
+Low,Q2,G3,Rand Choice 1,West,Tuesday,,q_const_0,q_const_0,1342401
+Low,Q1,G3,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,8447199
+High,,G6,Rand Choice 2,North,Friday,label num lo 1,q_const_0,q_const_0,6348821
+High,Q3,,Rand Choice 1,South,Thursday,label num lo 3,q_const_0,q_const_0,
+Low,,G3,Rand Choice 1,North,Tuesday,label num lo 2,q_const_0,q_const_0,7281817
+Low,,G3,,North,Monday,label num lo 3,q_const_0,q_const_0,1877368
+High,,G5,Rand Choice 2,South,Wednesday,label num lo 4,q_const_0,q_const_0,4559931
+High,Q4,G6,Rand Choice 2,East,Wednesday,label num lo 4,q_const_0,q_const_0,4404283
+High,Q4,G6,Rand Choice 1,South,Sunday,label num lo 3,q_const_0,q_const_0,5413279
+High,Q3,G4,Rand Choice 2,South,Thursday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,North,Monday,,q_const_0,q_const_0,6530052
+Low,Q2,G3,Rand Choice 2,South,Thursday,label num lo 3,q_const_0,q_const_0,9278020
+Low,Q2,G3,Rand Choice 2,East,Saturday,label num lo 3,q_const_0,q_const_0,7524442
+Low,Q1,,Rand Choice 2,South,Wednesday,label num lo 3,q_const_0,q_const_0,0248597
+High,Q3,G5,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,1095865
+Low,,G4,Rand Choice 2,East,Friday,label num lo 1,q_const_0,q_const_0,9872931
+High,,G6,Rand Choice 1,North,Tuesday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 1,West,Saturday,,q_const_0,q_const_0,3939394
+High,,G5,,South,Thursday,,q_const_0,q_const_0,7117193
+Low,Q1,G2,,West,Saturday,,q_const_0,q_const_0,1150025
+Low,,G3,Rand Choice 2,West,Wednesday,,q_const_0,q_const_0,0197482
+High,Q3,G4,Rand Choice 2,West,Saturday,label num lo 4,q_const_0_1,q_const_0,9144826
+Low,,G4,,East,Saturday,label num lo 1,q_const_0,q_const_0,6369489
+High,Q3,,Rand Choice 2,North,Sunday,label num lo 3,q_const_0,q_const_0,9782886
+Low,Q1,G1,,East,Saturday,label num lo 3,q_const_0,q_const_0,7420287
+High,,,Rand Choice 1,North,Monday,label num lo 4,q_const_0,q_const_0,
+Low,Q2,G4,,South,Sunday,label num lo 1,q_const_0,q_const_0,5919480
+Low,Q1,G1,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,
+High,Q3,G4,Rand Choice 1,West,Sunday,,q_const_0,q_const_0,3273424
+Low,Q2,G4,Rand Choice 2,North,Monday,label num lo 4,q_const_0,q_const_0,7765973
+Low,Q1,G3,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,9661031
+High,Q4,G6,,North,Tuesday,label num lo 2,q_const_0,q_const_0,4534723
+Low,,G3,,West,Thursday,,q_const_0,q_const_0,3160656
+Low,Q2,G3,Rand Choice 2,North,Friday,label num lo 1,q_const_0,q_const_0,6536351
+High,Q4,G6,Rand Choice 1,South,Sunday,label num lo 3,q_const_0,q_const_0,0949438
+High,Q4,G6,Rand Choice 2,West,Wednesday,label num lo 2,q_const_0,q_const_0,4177066
+Low,Q2,,Rand Choice 1,East,Thursday,label num lo 3,q_const_0,q_const_0,5486016
+High,,G5,Rand Choice 1,South,Thursday,label num lo 3,q_const_0,q_const_0,2100001
+High,Q4,G6,Rand Choice 1,South,Sunday,label num lo 2,q_const_0,q_const_0_1,8206754
+High,Q4,G5,Rand Choice 1,North,Friday,label num lo 1,q_const_0,q_const_0,7002362
+Low,Q1,,Rand Choice 2,East,Friday,label num lo 3,q_const_0,q_const_0,0915071
+Low,Q2,,Rand Choice 2,East,Sunday,label num lo 3,q_const_0,q_const_0,8016569
+Low,Q1,,Rand Choice 2,South,Wednesday,,q_const_0,q_const_0,0802205
+Low,,G2,Rand Choice 1,South,Friday,label num lo 1,q_const_0,q_const_0,3746103
+Low,Q1,G1,Rand Choice 2,South,Saturday,label num lo 2,q_const_0,q_const_0,3044640
+Low,Q2,G4,,South,Sunday,label num lo 3,q_const_0,q_const_0,
+High,Q4,G5,Rand Choice 2,West,Sunday,label num lo 1,q_const_0,q_const_0,5571692
+Low,Q1,,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,2621928
+Low,Q1,G1,,North,Tuesday,label num lo 1,q_const_0,q_const_0,
+High,Q3,G5,,East,Friday,,q_const_0,q_const_0,3966003
+High,,G6,Rand Choice 2,North,Monday,label num lo 1,q_const_0,q_const_0,3604887
+Low,Q2,G3,,East,Monday,label num lo 3,q_const_0,q_const_0,
+Low,,G4,,East,Monday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,East,Friday,,q_const_0,q_const_0,3045304
+High,,G4,Rand Choice 1,East,Monday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,,East,Thursday,label num lo 2,q_const_0,q_const_0,5640295
+Low,Q2,G3,Rand Choice 2,East,Thursday,label num lo 3,q_const_0,q_const_0,3993299
+High,,G6,Rand Choice 2,West,,,q_const_0,q_const_0,
+Low,Q1,G3,,North,Sunday,label num lo 1,q_const_0,q_const_0,2157715
+High,Q3,G5,Rand Choice 1,West,Tuesday,label num lo 2,q_const_0,q_const_0,1424631
+Low,Q2,G3,Rand Choice 2,East,Sunday,label num lo 4,q_const_0,q_const_0,8559925
+High,Q3,G4,Rand Choice 2,South,,label num lo 1,q_const_0,q_const_0,1871429
+High,Q4,G5,,South,Friday,label num lo 2,q_const_0,q_const_0,
+High,,G5,Rand Choice 2,South,Wednesday,,q_const_0,q_const_0,
+High,,G5,,West,Tuesday,,q_const_0,q_const_0,
+High,Q4,G5,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,9064715
+High,Q3,G4,Rand Choice 1,West,Monday,,q_const_0,q_const_0,5122499
+Low,Q1,G1,,South,Friday,label num lo 2,q_const_0,q_const_0,5711161
+Low,Q2,G4,Rand Choice 2,North,Saturday,label num lo 4,q_const_0,q_const_0,4960238
+High,Q3,G5,,North,Saturday,label num lo 4,q_const_0,q_const_0,2175609
+High,Q4,G6,,South,Tuesday,label num lo 2,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 2,South,Friday,label num lo 2,q_const_0,q_const_0,1027048
+High,Q3,G5,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,7710174
+High,Q4,G6,Rand Choice 2,North,Saturday,,q_const_0,q_const_0,7723010
+Low,,G2,Rand Choice 1,West,,label num lo 4,q_const_0,q_const_0,4090626
+Low,Q2,G4,Rand Choice 1,South,Thursday,label num lo 3,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,East,Tuesday,label num lo 4,q_const_0,q_const_0,7347690
+Low,Q2,G3,Rand Choice 2,East,Friday,,q_const_0,q_const_0,3357123
+Low,Q1,G3,Rand Choice 2,North,Wednesday,label num lo 3,q_const_0,q_const_0,6651796
+High,Q3,G5,Rand Choice 1,East,Saturday,label num lo 1,q_const_0,q_const_0,9511089
+High,Q3,G5,Rand Choice 1,East,Friday,label num lo 4,q_const_0,q_const_0,5004969
+Low,Q2,G3,Rand Choice 1,West,Tuesday,,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,East,Sunday,label num lo 4,q_const_0,q_const_0,3361921
+High,,G6,,South,Wednesday,,q_const_0,q_const_0,
+Low,Q1,G3,,West,Tuesday,,q_const_0,q_const_0,7588904
+Low,Q2,G3,Rand Choice 1,North,Thursday,label num lo 2,q_const_0,q_const_0,6703116
+Low,Q1,,Rand Choice 2,South,Saturday,label num lo 4,q_const_0,q_const_0,1322064
+High,Q3,G5,Rand Choice 2,North,Tuesday,label num lo 3,q_const_0,q_const_0,6891855
+High,Q3,G5,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 1,North,Saturday,label num lo 1,q_const_0,q_const_0,
+High,Q3,G5,,West,Wednesday,label num lo 3,q_const_0,q_const_0,7325576
+High,Q4,G5,Rand Choice 2,South,Thursday,label num lo 3,q_const_0,q_const_0,9428826
+High,Q3,G5,Rand Choice 1,West,Friday,,q_const_0,q_const_0,3464032
+High,Q4,G6,,North,Friday,label num lo 3,q_const_0,q_const_0,3432132
+High,Q4,G6,Rand Choice 2,East,Tuesday,label num lo 2,q_const_0,q_const_0,7834944
+Low,Q1,G3,Rand Choice 2,West,Sunday,,q_const_0_2,q_const_0,0454301
+High,,G4,Rand Choice 1,East,Friday,label num lo 3,q_const_0,q_const_0,7510484
+High,Q3,G5,,East,Friday,,q_const_0,q_const_0,9901207
+High,,G5,Rand Choice 2,West,Wednesday,,q_const_0,q_const_0,6099570
+Low,Q2,G4,Rand Choice 1,East,Friday,label num lo 3,q_const_0,q_const_0,6945015
+High,,G5,Rand Choice 2,East,Monday,label num lo 2,q_const_0,q_const_0,2697193
+Low,Q1,G1,Rand Choice 1,North,Friday,label num lo 4,q_const_0,q_const_0,
+Low,Q2,G3,,West,Wednesday,label num lo 4,q_const_0,q_const_0,4350941
+Low,Q2,G4,,West,Sunday,,q_const_0,q_const_0,9491853
+High,Q4,G6,,East,Tuesday,label num lo 3,q_const_0,q_const_0,7909006
+High,,,Rand Choice 2,East,Thursday,,q_const_0,q_const_0,8111573
+High,Q4,G6,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,0435637
+High,Q3,,Rand Choice 2,North,Friday,label num lo 1,q_const_0,q_const_0,8336244
+High,Q4,,Rand Choice 1,West,,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,West,Thursday,label num lo 2,q_const_0,q_const_0,5005092
+Low,Q2,G4,Rand Choice 2,North,Tuesday,label num lo 3,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,5929795
+Low,Q2,,,North,Thursday,label num lo 1,q_const_0,q_const_0,9540388
+High,Q3,G5,Rand Choice 1,South,Thursday,label num lo 2,q_const_0,q_const_0,4453542
+High,Q4,G6,Rand Choice 1,North,Wednesday,label num lo 2,q_const_0,q_const_0,
+Low,,,Rand Choice 2,East,Sunday,label num lo 3,q_const_0,q_const_0,
+High,,G6,Rand Choice 1,South,,label num lo 2,q_const_0,q_const_0,7125624
+High,,G5,Rand Choice 1,West,Tuesday,label num lo 1,q_const_0,q_const_0,7600196
+Low,Q1,G2,Rand Choice 1,South,Monday,label num lo 3,q_const_0,q_const_0,5205221
+Low,Q2,G4,Rand Choice 2,South,Monday,label num lo 1,q_const_0,q_const_0,0134291
+High,Q3,G4,Rand Choice 2,East,Monday,label num lo 2,q_const_0_1,q_const_0,5096490
+Low,,G2,Rand Choice 2,North,Tuesday,label num lo 3,q_const_0,q_const_0,6585061
+High,,,Rand Choice 2,South,Thursday,label num lo 4,q_const_0,q_const_0,7205578
+Low,,G3,,West,Friday,,q_const_0,q_const_0,4476474
+High,Q3,G5,Rand Choice 1,East,Sunday,label num lo 3,q_const_0,q_const_0,8059541
+Low,Q2,,Rand Choice 1,North,Monday,label num lo 3,q_const_0,q_const_0,7036018
+Low,Q1,G1,,East,,label num lo 4,q_const_0,q_const_0,7885726
+Low,Q2,G4,Rand Choice 1,South,Friday,label num lo 4,q_const_0,q_const_0,4068039
+High,,G5,,North,Tuesday,label num lo 3,q_const_0,q_const_0,7789805
+Low,,G2,Rand Choice 2,North,Saturday,label num lo 3,q_const_0,q_const_0,
+High,Q3,G5,,South,,,q_const_0,q_const_0,5799474
+High,Q3,G4,Rand Choice 2,East,Wednesday,,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,South,Saturday,,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 2,West,Monday,,q_const_0,q_const_0,2576315
+Low,Q2,,,East,Wednesday,label num lo 4,q_const_0,q_const_0,7667551
+High,,G5,Rand Choice 1,West,Sunday,label num lo 2,q_const_0,q_const_0,8340556
+High,Q4,G6,,West,Sunday,,q_const_0,q_const_0,2622469
+Low,Q2,G3,,North,Monday,label num lo 4,q_const_0,q_const_0,4130451
+Low,Q1,G3,,West,Monday,label num lo 4,q_const_0,q_const_0,1566720
+High,Q3,G5,Rand Choice 2,North,Thursday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G3,,North,Tuesday,label num lo 2,q_const_0,q_const_0,2591365
+Low,Q2,G3,Rand Choice 2,East,,label num lo 4,q_const_0,q_const_0,1270248
+Low,,G2,,South,Friday,label num lo 1,q_const_0,q_const_0,3736965
+Low,,G4,Rand Choice 1,West,Saturday,label num lo 1,q_const_0,q_const_0,5203479
+High,Q4,G6,Rand Choice 1,South,Friday,label num lo 1,q_const_0,q_const_0,4970013
+High,,G4,,North,Tuesday,label num lo 2,q_const_0,q_const_0,3111106
+High,Q4,G6,Rand Choice 1,North,Thursday,label num lo 2,q_const_0,q_const_0,5390255
+High,,G4,Rand Choice 1,South,,label num lo 1,q_const_0,q_const_0,6702233
+Low,,G2,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,
+Low,,G1,,West,Sunday,label num lo 1,q_const_0,q_const_0,
+High,,G4,Rand Choice 2,West,Saturday,label num lo 4,q_const_0,q_const_0,4998253
+Low,,G3,Rand Choice 2,East,Wednesday,label num lo 2,q_const_0,q_const_0,
+Low,,G2,Rand Choice 1,East,Monday,,q_const_0,q_const_0,
+Low,Q2,,Rand Choice 2,West,Monday,label num lo 3,q_const_0,q_const_0,9287082
+High,,G5,Rand Choice 1,East,Monday,label num lo 3,q_const_0,q_const_0,1879061
+High,Q4,G6,,East,Friday,label num lo 3,q_const_0,q_const_0,
+High,,G4,,South,Thursday,label num lo 4,q_const_0,q_const_0,5998488
+Low,Q1,G2,,West,Monday,,q_const_0,q_const_0_2,5156146
+High,,G6,,West,Wednesday,label num lo 4,q_const_0,q_const_0,3738140
+High,Q3,G5,Rand Choice 1,North,Monday,label num lo 4,q_const_0,q_const_0,3346782
+Low,,G3,Rand Choice 2,East,Wednesday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G1,,East,Sunday,,q_const_0,q_const_0,9106717
+Low,,G2,Rand Choice 2,West,Tuesday,label num lo 3,q_const_0,q_const_0,9005301
+High,,G4,,West,Thursday,label num lo 3,q_const_0,q_const_0,1178901
+Low,,G4,,East,Friday,label num lo 2,q_const_0,q_const_0,5770765
+Low,Q2,G3,Rand Choice 1,South,Sunday,label num lo 3,q_const_0,q_const_0,2480111
+High,Q3,G5,Rand Choice 2,West,Sunday,label num lo 2,q_const_0,q_const_0,8974750
+High,Q3,G5,,North,Wednesday,,q_const_0,q_const_0,4251374
+High,Q4,,Rand Choice 2,South,Wednesday,label num lo 3,q_const_0,q_const_0,
+Low,,G3,,South,Wednesday,label num lo 2,q_const_0,q_const_0,3178132
+Low,,G3,,North,Saturday,label num lo 3,q_const_0,q_const_0,5418976
+High,Q4,G6,,South,Saturday,,q_const_0,q_const_0,7264946
+Low,Q2,G3,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,9561781
+Low,,G1,Rand Choice 2,North,Friday,label num lo 4,q_const_0,q_const_0,3453781
+High,Q3,G5,Rand Choice 2,South,Sunday,label num lo 3,q_const_0,q_const_0,2267223
+High,Q4,G6,Rand Choice 2,East,Monday,label num lo 4,q_const_0,q_const_0,4082702
+Low,,G2,,South,Tuesday,label num lo 2,q_const_0,q_const_0,5702415
+High,Q3,G4,Rand Choice 1,North,Sunday,label num lo 2,q_const_0,q_const_0,6594625
+Low,Q1,G1,Rand Choice 2,West,Tuesday,,q_const_0,q_const_0,4054748
+High,Q4,G6,,North,,label num lo 4,q_const_0,q_const_0,7734583
+Low,Q1,G1,Rand Choice 2,North,Wednesday,,q_const_0,q_const_0,
+High,,G5,Rand Choice 2,East,Friday,label num lo 4,q_const_0,q_const_0,4389301
+High,Q4,G6,Rand Choice 1,North,Sunday,,q_const_0,q_const_0,8903914
+High,,G4,,West,Tuesday,label num lo 4,q_const_0,q_const_0,7797326
+High,Q3,G5,Rand Choice 1,North,Monday,label num lo 2,q_const_0,q_const_0,
+Low,,G3,Rand Choice 2,North,Monday,label num lo 3,q_const_0,q_const_0,9846243
+High,Q4,G6,,West,Tuesday,label num lo 2,q_const_0_1,q_const_0,9201759
+High,Q4,G6,Rand Choice 1,East,Thursday,,q_const_0,q_const_0,0104703
+Low,,G2,Rand Choice 1,South,Thursday,label num lo 4,q_const_0,q_const_0,4718489
+Low,Q2,G3,,West,Monday,,q_const_0,q_const_0,
+Low,,G3,Rand Choice 1,South,Wednesday,label num lo 3,q_const_0,q_const_0,1862211
+High,Q4,G6,,South,Sunday,,q_const_0,q_const_0,1779174
+Low,Q1,G1,,East,Wednesday,label num lo 3,q_const_0,q_const_0,8378310
+High,,G6,,East,Thursday,label num lo 1,q_const_0,q_const_0,0456007
+High,Q4,G6,Rand Choice 2,West,Wednesday,,q_const_0,q_const_0,8216182
+High,,,Rand Choice 1,West,Saturday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,West,Friday,label num lo 1,q_const_0,q_const_0,5998777
+Low,Q2,G3,Rand Choice 1,East,Wednesday,label num lo 1,q_const_0,q_const_0,0754973
+Low,Q1,,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,6870990
+High,Q3,G4,Rand Choice 2,West,Thursday,label num lo 2,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 2,South,Saturday,label num lo 2,q_const_0,q_const_0,1172318
+Low,Q1,G1,Rand Choice 1,East,Thursday,,q_const_0,q_const_0,6752294
+Low,Q2,G3,,South,Sunday,label num lo 4,q_const_0,q_const_0,1145964
+Low,,,Rand Choice 1,East,Thursday,label num lo 4,q_const_0,q_const_0,1080044
+High,Q4,G6,,West,Tuesday,,q_const_0,q_const_0,1186804
+Low,,G3,Rand Choice 2,West,,label num lo 3,q_const_0,q_const_0,
+Low,,G3,Rand Choice 2,West,Friday,label num lo 2,q_const_0,q_const_0,7134922
+High,,G6,Rand Choice 2,West,Tuesday,,q_const_0,q_const_0,4375383
+High,Q4,G6,Rand Choice 2,East,Saturday,,q_const_0,q_const_0,0173896
+Low,,G1,Rand Choice 2,West,Sunday,label num lo 3,q_const_0,q_const_0,3321185
+Low,Q1,G3,,West,Tuesday,,q_const_0,q_const_0,5840170
+Low,Q1,G1,,South,Thursday,label num lo 1,q_const_0,q_const_0,9630624
+High,,G4,Rand Choice 2,East,Saturday,,q_const_0,q_const_0,8649777
+Low,Q2,G3,Rand Choice 1,West,Saturday,,q_const_0,q_const_0,8916792
+Low,Q2,G3,Rand Choice 2,North,Thursday,label num lo 2,q_const_0,q_const_0,7778113
+High,Q4,G6,Rand Choice 1,East,Wednesday,,q_const_0_1,q_const_0,5763532
+Low,,G3,Rand Choice 2,East,Monday,label num lo 2,q_const_0,q_const_0,7291866
+Low,,G1,Rand Choice 2,South,Wednesday,,q_const_0_1,q_const_0,
+High,Q3,G4,Rand Choice 2,North,Monday,label num lo 1,q_const_0,q_const_0,9357905
+High,Q3,G4,Rand Choice 1,West,Sunday,label num lo 1,q_const_0,q_const_0,7117079
+Low,,G3,Rand Choice 1,South,Saturday,label num lo 1,q_const_0,q_const_0,9066765
+High,,G6,,South,Monday,label num lo 4,q_const_0,q_const_0,5375293
+High,Q4,G6,,North,Tuesday,label num lo 3,q_const_0,q_const_0,5108916
+Low,,G2,Rand Choice 1,South,Thursday,,q_const_0,q_const_0,
+High,,G6,,East,Tuesday,label num lo 1,q_const_0,q_const_0,
+Low,Q2,,Rand Choice 1,South,Thursday,label num lo 1,q_const_0,q_const_0,0819508
+Low,Q1,G1,,West,Sunday,label num lo 2,q_const_0,q_const_0,5307539
+Low,Q1,G1,Rand Choice 1,South,Saturday,label num lo 4,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 2,East,Sunday,label num lo 4,q_const_0,q_const_0,
+Low,,G3,,West,Thursday,label num lo 4,q_const_0,q_const_0,7994584
+High,,G6,Rand Choice 2,South,Wednesday,label num lo 2,q_const_0,q_const_0,
+High,Q4,G5,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,0529087
+Low,Q2,G4,Rand Choice 1,South,Sunday,label num lo 1,q_const_0,q_const_0,3140675
+High,Q4,G6,Rand Choice 2,South,Friday,label num lo 3,q_const_0,q_const_0,2476426
+High,Q4,G6,Rand Choice 1,North,Saturday,label num lo 4,q_const_0,q_const_0,4569124
+High,Q4,G6,,South,Tuesday,,q_const_0,q_const_0,7894534
+High,,G6,Rand Choice 1,South,Sunday,label num lo 3,q_const_0,q_const_0,9169226
+Low,Q2,G4,,West,Sunday,label num lo 3,q_const_0,q_const_0,2124913
+High,Q3,G4,Rand Choice 2,North,,,q_const_0,q_const_0,1621000
+Low,Q1,G1,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,3980187
+High,Q4,G6,,North,Wednesday,label num lo 2,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,East,Wednesday,label num lo 4,q_const_0,q_const_0,
+Low,,G2,Rand Choice 2,North,Saturday,,q_const_0,q_const_0,4698461
+Low,Q1,G3,,South,Monday,label num lo 2,q_const_0,q_const_0,7493048
+High,Q4,G6,Rand Choice 1,South,Wednesday,label num lo 1,q_const_0,q_const_0,6748222
+Low,Q2,G3,,North,Sunday,label num lo 2,q_const_0,q_const_0,7448346
+High,Q3,G4,Rand Choice 2,North,Sunday,label num lo 2,q_const_0,q_const_0,9440889
+High,Q4,G6,,North,Friday,,q_const_0,q_const_0,4200162
+High,Q3,G4,Rand Choice 2,East,Friday,label num lo 2,q_const_0,q_const_0,5278920
+High,Q4,G6,Rand Choice 2,West,Saturday,,q_const_0,q_const_0,1081682
+Low,Q1,G3,,East,Monday,label num lo 2,q_const_0,q_const_0,
+Low,,G3,Rand Choice 2,South,Sunday,label num lo 3,q_const_0,q_const_0,
+Low,,G4,Rand Choice 2,West,Wednesday,label num lo 4,q_const_0,q_const_0,7235944
+High,,G6,,South,Saturday,label num lo 4,q_const_0,q_const_0,4267608
+Low,Q2,G4,Rand Choice 1,North,Tuesday,label num lo 4,q_const_0,q_const_0,8636831
+High,Q3,G5,,North,Friday,,q_const_0,q_const_0,0978533
+High,,G5,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,9248301
+Low,,G1,Rand Choice 1,North,Thursday,label num lo 1,q_const_0,q_const_0,8618019
+Low,Q1,G3,Rand Choice 1,North,Tuesday,label num lo 1,q_const_0,q_const_0,3693310
+Low,Q1,G2,,East,Wednesday,label num lo 3,q_const_0,q_const_0,5206879
+High,Q3,G4,Rand Choice 2,North,Sunday,,q_const_0,q_const_0,
+Low,Q1,G1,Rand Choice 1,North,Thursday,label num lo 3,q_const_0,q_const_0,8883999
+High,Q4,G6,Rand Choice 1,East,Saturday,,q_const_0,q_const_0,4922567
+Low,Q1,G1,Rand Choice 2,South,Wednesday,label num lo 4,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 2,West,Tuesday,,q_const_0,q_const_0,2412188
+High,Q4,G6,,South,Sunday,label num lo 1,q_const_0,q_const_0,2405915
+Low,Q1,G2,Rand Choice 2,East,Wednesday,label num lo 4,q_const_0,q_const_0,8074364
+High,Q3,G5,Rand Choice 2,East,Tuesday,label num lo 3,q_const_0,q_const_0,8063145
+Low,Q1,G1,Rand Choice 1,West,Sunday,label num lo 1,q_const_0,q_const_0,7465181
+High,Q4,G6,Rand Choice 1,West,Sunday,label num lo 2,q_const_0,q_const_0,9889033
+High,,G5,,North,Sunday,,q_const_0,q_const_0,0856600
+High,Q4,,Rand Choice 1,East,Friday,label num lo 4,q_const_0,q_const_0,5840868
+High,Q3,G5,Rand Choice 1,South,Wednesday,label num lo 2,q_const_0,q_const_0,1029833
+Low,Q1,G3,,West,Wednesday,,q_const_0,q_const_0,8233011
+Low,Q2,G4,,West,Monday,label num lo 4,q_const_0,q_const_0,
+Low,Q1,G2,Rand Choice 1,South,Thursday,label num lo 2,q_const_0,q_const_0,4208920
+High,Q4,G6,Rand Choice 2,East,Monday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,Rand Choice 1,East,Thursday,label num lo 4,q_const_0,q_const_0,9783986
+High,,,Rand Choice 2,West,Wednesday,label num lo 3,q_const_0,q_const_0,6158842
+High,Q3,G5,,North,Monday,label num lo 1,q_const_0,q_const_0,8068440
+Low,Q1,G1,Rand Choice 2,North,Wednesday,label num lo 3,q_const_0,q_const_0,2189012
+High,Q3,G5,Rand Choice 1,West,Monday,,q_const_0,q_const_0,6546305
+High,Q3,G5,,South,Thursday,label num lo 2,q_const_0,q_const_0,2289578
+High,Q4,G6,Rand Choice 1,South,Thursday,,q_const_0,q_const_0,2863175
+Low,,G3,Rand Choice 2,North,,label num lo 4,q_const_0,q_const_0,3289891
+High,Q4,G6,Rand Choice 1,South,Friday,label num lo 4,q_const_0,q_const_0,5420512
+Low,,G2,,East,Monday,,q_const_0,q_const_0,8541014
+High,,G5,Rand Choice 2,South,,label num lo 1,q_const_0,q_const_0,7536539
+High,Q4,G5,,East,,,q_const_0,q_const_0,6126995
+High,,G5,Rand Choice 2,West,Tuesday,label num lo 1,q_const_0,q_const_0,5617971
+High,Q3,G5,,South,Wednesday,label num lo 2,q_const_0,q_const_0,3024605
+Low,,G1,,North,Monday,,q_const_0,q_const_0,1545471
+Low,Q2,,,East,Tuesday,label num lo 2,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,West,Tuesday,label num lo 4,q_const_0,q_const_0,4962707
+Low,Q2,G3,Rand Choice 2,North,,label num lo 4,q_const_0,q_const_0,2165737
+High,,G5,Rand Choice 2,North,Friday,,q_const_0,q_const_0,1711704
+High,Q3,G5,,East,Thursday,label num lo 3,q_const_0,q_const_0,4088619
+Low,Q1,G2,Rand Choice 1,South,Wednesday,label num lo 1,q_const_0,q_const_0,7325879
+High,Q3,G5,,East,Friday,,q_const_0,q_const_0,6544543
+Low,Q2,G3,Rand Choice 1,West,Thursday,label num lo 2,q_const_0,q_const_0,7666748
+Low,Q2,G3,Rand Choice 2,West,Wednesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,,East,Saturday,label num lo 4,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,South,Thursday,label num lo 2,q_const_0,q_const_0,6862287
+High,Q3,G5,,West,Thursday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 2,West,,label num lo 2,q_const_0,q_const_0,8799042
+Low,Q2,G3,,South,Tuesday,label num lo 4,q_const_0,q_const_0,1071151
+Low,,G4,Rand Choice 2,South,Monday,,q_const_0,q_const_0,1709594
+High,Q4,,,West,Thursday,,q_const_0,q_const_0,9309348
+High,,G6,Rand Choice 1,West,Sunday,,q_const_0,q_const_0,3919146
+Low,Q2,G3,,South,Friday,label num lo 4,q_const_0,q_const_0,5729139
+High,Q3,G4,Rand Choice 2,East,Saturday,,q_const_0,q_const_0,4460421
+Low,,,Rand Choice 2,South,Saturday,label num lo 1,q_const_0,q_const_0,9101872
+Low,Q1,G2,Rand Choice 1,South,Thursday,,q_const_0,q_const_0,1846279
+Low,Q1,G2,Rand Choice 2,South,Wednesday,label num lo 3,q_const_0,q_const_0,6759022
+Low,Q1,G3,Rand Choice 1,North,Saturday,,q_const_0,q_const_0,3820285
+High,Q3,G5,Rand Choice 2,West,Monday,,q_const_0,q_const_0,4432595
+High,Q4,G6,Rand Choice 2,West,Saturday,label num lo 1,q_const_0,q_const_0,7870780
+Low,Q1,G2,,South,Wednesday,,q_const_0,q_const_0,8436383
+Low,Q1,,,North,Monday,,q_const_0,q_const_0,5913655
+Low,,,Rand Choice 1,North,Wednesday,label num lo 1,q_const_0,q_const_0,5020629
+Low,Q2,G4,,West,Thursday,,q_const_0,q_const_0,8012784
+Low,Q1,G3,,South,Saturday,label num lo 1,q_const_0,q_const_0,7206214
+High,,G4,Rand Choice 2,West,Friday,,q_const_0,q_const_0,1505127
+Low,Q1,G1,Rand Choice 1,South,Saturday,,q_const_0,q_const_0,
+Low,,,Rand Choice 1,East,Friday,label num lo 1,q_const_0,q_const_0,1871612
+High,Q3,G5,Rand Choice 1,West,Friday,label num lo 2,q_const_0,q_const_0,4124083
+Low,,G2,,East,Sunday,,q_const_0,q_const_0,4112373
+High,Q4,G5,Rand Choice 2,East,Wednesday,,q_const_0,q_const_0,9897013
+High,Q3,G5,Rand Choice 1,West,Monday,,q_const_0,q_const_0,4701754
+High,Q4,G5,Rand Choice 2,East,Friday,label num lo 4,q_const_0,q_const_0,6694738
+Low,Q1,G2,Rand Choice 2,East,Thursday,,q_const_0,q_const_0,1782892
+Low,Q2,G4,Rand Choice 2,North,Monday,label num lo 1,q_const_0,q_const_0,
+High,Q4,G6,Rand Choice 1,North,Friday,label num lo 4,q_const_0,q_const_0,8426541
+Low,,G3,,South,Wednesday,label num lo 2,q_const_0,q_const_0,6102009
+Low,Q1,G2,Rand Choice 2,South,Monday,label num lo 1,q_const_0,q_const_0,7869080
+High,,,Rand Choice 2,East,Friday,,q_const_0,q_const_0,8638878
+High,,G5,Rand Choice 2,East,Tuesday,,q_const_0,q_const_0,
+Low,Q2,,Rand Choice 2,East,Friday,label num lo 1,q_const_0,q_const_0,2190250
+High,,,Rand Choice 1,East,Friday,label num lo 4,q_const_0,q_const_0,6608302
+High,Q3,G4,,East,Wednesday,,q_const_0,q_const_0,8103425
+Low,Q1,G2,,North,Thursday,label num lo 3,q_const_0,q_const_0,3422631
+Low,Q2,G3,Rand Choice 2,East,Thursday,label num lo 1,q_const_0,q_const_0,
+Low,Q1,G3,,South,Monday,label num lo 3,q_const_0,q_const_0,8262637
+Low,Q2,G4,Rand Choice 1,South,Thursday,label num lo 4,q_const_0,q_const_0,3498591
+High,,G4,,South,Sunday,label num lo 3,q_const_0,q_const_0,7911355
+Low,Q1,G1,Rand Choice 2,West,Monday,label num lo 2,q_const_0,q_const_0,8722343
+High,Q4,G6,Rand Choice 1,West,Thursday,label num lo 1,q_const_0,q_const_0,0428513
+Low,,G1,Rand Choice 2,North,Tuesday,label num lo 2,q_const_0,q_const_0,6362441
+High,Q3,G5,Rand Choice 1,West,Wednesday,label num lo 3,q_const_0,q_const_0,7334110
+High,Q4,G6,,East,,,q_const_0,q_const_0,7819888
+High,Q3,G5,Rand Choice 1,West,Sunday,label num lo 4,q_const_0,q_const_0,3187526
+Low,Q2,G3,Rand Choice 2,South,Friday,,q_const_0,q_const_0,6612527
+High,,,Rand Choice 2,North,,label num lo 2,q_const_0,q_const_0,8974862
+Low,Q1,,,North,Wednesday,,q_const_0,q_const_0,5562502
+Low,,G1,Rand Choice 2,South,Saturday,label num lo 3,q_const_0,q_const_0,2396315
+High,Q3,G5,Rand Choice 1,West,Sunday,label num lo 3,q_const_0,q_const_0,6857940
+High,Q4,G6,Rand Choice 2,West,Friday,label num lo 4,q_const_0,q_const_0,2147357
+Low,,G1,Rand Choice 1,North,Saturday,label num lo 1,q_const_0,q_const_0,9552313
+High,Q4,G6,Rand Choice 1,North,Tuesday,label num lo 2,q_const_0,q_const_0,
+Low,Q2,G4,,West,Monday,label num lo 4,q_const_0,q_const_0,0992485
+High,Q4,G6,Rand Choice 1,South,Thursday,label num lo 2,q_const_0,q_const_0,2727530
+Low,,G3,,South,Tuesday,label num lo 3,q_const_0,q_const_0,4013203
+High,,G6,Rand Choice 2,East,Wednesday,label num lo 1,q_const_0,q_const_0,4791395
+High,Q4,,Rand Choice 1,South,Friday,,q_const_0,q_const_0,7466567
+High,Q3,G4,Rand Choice 2,West,Thursday,label num lo 1,q_const_0,q_const_0,3111171
+Low,Q1,G1,,East,Sunday,label num lo 4,q_const_0,q_const_0,1651955
+High,Q4,,Rand Choice 2,South,Monday,label num lo 3,q_const_0,q_const_0,7294068
+High,Q4,G6,Rand Choice 1,South,Tuesday,label num lo 4,q_const_0,q_const_0,
+High,Q3,G4,,East,Monday,label num lo 1,q_const_0,q_const_0,
+Low,Q2,,Rand Choice 1,North,Monday,label num lo 2,q_const_0,q_const_0,4908686
+Low,,G2,Rand Choice 2,South,Friday,,q_const_0,q_const_0,
+Low,,G3,Rand Choice 1,North,Thursday,,q_const_0,q_const_0,
+Low,,G1,Rand Choice 1,North,Tuesday,label num lo 2,q_const_0,q_const_0,
+High,,G5,Rand Choice 2,West,Saturday,label num lo 4,q_const_0,q_const_0,5364373
+High,Q3,G4,Rand Choice 1,West,Tuesday,label num lo 2,q_const_0,q_const_0,2585253
+Low,,G3,Rand Choice 2,West,Friday,label num lo 3,q_const_0,q_const_0,7085610
+Low,Q1,G1,Rand Choice 2,South,Thursday,label num lo 3,q_const_0,q_const_0,9189376
+High,,G6,Rand Choice 2,South,Sunday,label num lo 1,q_const_0,q_const_0,9797142
+High,Q4,G6,Rand Choice 2,East,Tuesday,label num lo 3,q_const_0,q_const_0,8036983
+High,Q4,G6,Rand Choice 1,South,Sunday,label num lo 2,q_const_0,q_const_0,8636000
+High,Q3,G5,,West,Tuesday,label num lo 4,q_const_0,q_const_0,6793225
+High,Q3,,Rand Choice 2,East,Monday,,q_const_0,q_const_0,6010851
+Low,Q2,,Rand Choice 2,North,Monday,label num lo 3,q_const_0,q_const_0,
+Low,Q2,G4,,South,Monday,label num lo 2,q_const_0,q_const_0,6056737
+Low,,G4,Rand Choice 1,West,Thursday,label num lo 3,q_const_0,q_const_0,2137385
+Low,,G4,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,
+Low,,G4,,East,Monday,,q_const_0,q_const_0,1789143
+High,Q3,G4,Rand Choice 1,West,Sunday,label num lo 2,q_const_0,q_const_0,8408113
+Low,,G3,Rand Choice 2,North,Wednesday,label num lo 4,q_const_0,q_const_0,7934998
+Low,Q1,G2,Rand Choice 1,South,Monday,label num lo 3,q_const_0,q_const_0,6962199
+High,,G5,Rand Choice 2,West,Tuesday,label num lo 1,q_const_0,q_const_0,5617971
+Low,,,,South,Tuesday,label num lo 2,q_const_0,q_const_0,1263376
+High,Q3,G4,Rand Choice 1,North,Sunday,label num lo 1,q_const_0,q_const_0,3747500
+Low,Q2,G3,Rand Choice 2,North,Thursday,label num lo 3,q_const_0,q_const_0,9561781
+High,,G6,Rand Choice 2,North,Friday,label num lo 1,q_const_0,q_const_0,6348821
+High,,G4,Rand Choice 2,South,Monday,,q_const_0,q_const_0,8560786
+Low,Q2,G3,Rand Choice 2,North,Friday,label num lo 1,q_const_0,q_const_0,6536351
+Low,,G2,Rand Choice 1,East,Tuesday,,q_const_0,q_const_0,
+High,Q3,G5,Rand Choice 1,East,Tuesday,label num lo 1,q_const_0,q_const_0,8068281
+High,,,Rand Choice 2,North,,label num lo 2,q_const_0,q_const_0,8974862
+High,,G6,Rand Choice 1,South,Friday,label num lo 1,q_const_0,q_const_0,5426096
+Low,Q2,G4,Rand Choice 1,North,Tuesday,label num lo 4,q_const_0,q_const_0,8636831
+Low,Q2,G3,,North,Monday,label num lo 4,q_const_0,q_const_0,4130451
+Low,,,Rand Choice 1,East,Friday,label num lo 1,q_const_0,q_const_0,1871612
+High,Q3,G5,Rand Choice 2,North,Saturday,,q_const_0,q_const_0,2727262
+High,Q4,G6,Rand Choice 1,East,Thursday,,q_const_0,q_const_0,0104703
+Low,,G4,Rand Choice 1,West,Thursday,label num lo 3,q_const_0,q_const_0,2137385
+High,Q3,G5,,South,Saturday,label num lo 2,q_const_0,q_const_0,
+Low,Q2,G3,Rand Choice 2,South,Sunday,,q_const_0,q_const_0,3924358
+Low,,G2,,East,Monday,,q_const_0,q_const_0,8541014
