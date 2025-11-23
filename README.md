@@ -23,10 +23,7 @@ multi-table-ml-prediction/
 │   └── survey_scores.csv
 │
 ├── notebook/
-│   └── analysis_and_modeling.ipynb
-│
-└── src/
-    └── data_prep_utils.py
+    └── analysis_and_modeling.ipynb
 ```
 
 ## 🧠 Key Skills Demonstrated
