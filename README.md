@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Anders Strand**
 - GitHub: [@Anders-T-Strand](https://github.com/Anders-T-Strand)
 - LinkedIn: [Anders Strand](https://www.linkedin.com/in/anders-strand/)
 
