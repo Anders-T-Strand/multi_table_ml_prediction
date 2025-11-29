@@ -125,7 +125,7 @@ This ensures all behavioral records (containing the target) are retained while e
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - pip or conda
 
 ### Setup
